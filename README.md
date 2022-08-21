@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/93777016/185806588-25fd2201-da20-4d44-9fe9-fea6ab1cf80f.png)
+
+
+
 # Unit 5 Homework: The Power of Plots
 
 What good is data without a good plot to tell the story?
